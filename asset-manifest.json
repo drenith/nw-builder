@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nw-builder/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nw-builder/static/js/main.bb2ca0e7.chunk.js",
+    "main.js.map": "/nw-builder/static/js/main.bb2ca0e7.chunk.js.map",
+    "runtime-main.js": "/nw-builder/static/js/runtime-main.ca0d0af1.js",
+    "runtime-main.js.map": "/nw-builder/static/js/runtime-main.ca0d0af1.js.map",
+    "static/js/2.9acbb353.chunk.js": "/nw-builder/static/js/2.9acbb353.chunk.js",
+    "static/js/2.9acbb353.chunk.js.map": "/nw-builder/static/js/2.9acbb353.chunk.js.map",
+    "static/js/3.4689aa94.chunk.js": "/nw-builder/static/js/3.4689aa94.chunk.js",
+    "static/js/3.4689aa94.chunk.js.map": "/nw-builder/static/js/3.4689aa94.chunk.js.map",
+    "index.html": "/nw-builder/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nw-builder/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9acbb353.chunk.js.LICENSE.txt": "/nw-builder/static/js/2.9acbb353.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nw-builder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0d0af1.js",
+    "static/js/2.9acbb353.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bb2ca0e7.chunk.js"
+  ]
+}
